@@ -1,6 +1,6 @@
 // initialize the playlist object
 var playlist = {
-  artistName: 'Addele',
+  artistName: 'Adele', // key value = artistName and the value is Adele
   artistTitle: 'hello'
 }
 playlist
