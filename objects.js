@@ -1,3 +1,4 @@
+// initialize the playlist object
 var playlist = {
   artistName: 'Addele',
   artistTitle: 'hello'
